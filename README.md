@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# ECOM Application using React 🚀
 
 
 # Parcel
@@ -22,7 +22,7 @@
 
 
 
-# Namaste Food
+# Food
 
 
 /**
